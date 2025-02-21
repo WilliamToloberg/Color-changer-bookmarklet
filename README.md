@@ -1,4 +1,4 @@
-# Color-changer-bookmarklet-
+# Color-changer-bookmarklet
 Change text and/or background color of websites
 
 How to use:
